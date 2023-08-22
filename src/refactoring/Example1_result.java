@@ -2,7 +2,7 @@ package refactoring;
 
 import java.util.ArrayList;
 
-public class example1_result {
+public class Example1_result {
     public static int splitAndSum(String text) {
         if (text == null || text.isEmpty()) {
             return 0;

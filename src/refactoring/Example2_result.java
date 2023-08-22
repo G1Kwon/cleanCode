@@ -1,6 +1,6 @@
 package refactoring;
 
-public class example2_result {
+public class Example2_result {
     public static void main(String[] args) {
         System.out.println(getResult("25+61=86"));
         System.out.println(getResult("12345+12345=24690"));

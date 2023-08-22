@@ -1,6 +1,6 @@
 package refactoring;
 
-public class example1 {
+public class Example1 {
 
     public static int splitAndSum(String text) {
         int result = 0;

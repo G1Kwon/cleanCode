@@ -1,6 +1,6 @@
 package refactoring;
 
-public class example2 {
+public class Example2 {
     public static void main(String[] args) {
         //25+61=100
         //1 ~ 5자리수 덧셈 수식이 맞는지 확인하는 프로그램

@@ -2,7 +2,7 @@ package oop.design;
 
 import java.util.ArrayList;
 
-public class sort {
+public class Sort {
 
     static void bubbleSort(ArrayList<Integer> alist) {
         for(int cycle = 0 ; cycle < alist.size(); cycle ++) {
